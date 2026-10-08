@@ -1,4 +1,5 @@
 node_modules/
+public/maps/worker/
 .next/
 out/
 *.tsbuildinfo

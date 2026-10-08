@@ -15,7 +15,7 @@ export default defineConfig({
     headless: true,
     viewport: { width: 1440, height: 1000 },
     reducedMotion: "reduce",
-    launchOptions: { executablePath, args: ["--no-sandbox"] },
+    launchOptions: { executablePath, args: ["--no-sandbox", "--enable-unsafe-swiftshader", "--use-gl=angle", "--use-angle=swiftshader"] },
     trace: "retain-on-failure",
   },
   webServer: {

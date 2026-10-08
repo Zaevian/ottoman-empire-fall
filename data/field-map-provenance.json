@@ -1,0 +1,38 @@
+{
+  "provider": "Natural Earth",
+  "license": "Public domain",
+  "scale": "1:10,000,000",
+  "revision": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "bounds": [
+    -18,
+    5,
+    72,
+    61
+  ],
+  "datasets": [
+    {
+      "file": "ne_10m_land",
+      "sha256": "1ac90796408bc6ad6911d69448485d3c4dbf2190370080368a09976e1c9f7416",
+      "outputFeatures": 9,
+      "outputBytes": 1380220
+    },
+    {
+      "file": "ne_10m_admin_0_countries",
+      "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+      "outputFeatures": 115,
+      "outputBytes": 2472452
+    },
+    {
+      "file": "ne_10m_rivers_lake_centerlines",
+      "sha256": "bb854a900ecbd3b408df46d5e16e3e0f974ba55993f9d8b5c26e855273c0905a",
+      "outputFeatures": 316,
+      "outputBytes": 1142990
+    },
+    {
+      "file": "ne_10m_lakes",
+      "sha256": "2d036f53dedec578001c5c30c2959ee7d4eebc1306900fa4367c49929ec8f2d9",
+      "outputFeatures": 215,
+      "outputBytes": 416101
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # The Fall of an Empire
 
-**How the Ottoman Empire’s collapse reshaped the modern world.** A single-page educational documentary built with Next.js App Router, React, strict TypeScript, Tailwind CSS, locally hosted fonts, and SVG cartography.
+**How the Ottoman Empire’s collapse reshaped the modern world.** A single-page educational documentary built with Next.js App Router, React, strict TypeScript, Tailwind CSS, locally hosted fonts, SVG cartography, and a detailed MapLibre explorer.
 
 [Live documentary](https://ottoman-empire-fall.vercel.app). The Vercel project is connected to this repository; pushes to `main` deploy automatically. `vercel.json` pins the Next.js framework preset.
 
@@ -15,7 +15,7 @@ npm ci
 npm run dev
 ```
 
-The development server uses port 3000. No account, database, external service, environment variable, or API key is required. Fonts, map paths, and images are local; source links are optional external reading.
+The development server uses port 3000. No account, database, environment variable, or API key is required. Fonts, physical map geography, and images are local. Close map views can load present-day OpenStreetMap tiles online; this layer can be switched off and falls back locally if unavailable. Source links provide optional external reading.
 
 For a production build:
 
@@ -53,7 +53,13 @@ Import this repository into Vercel using its Next.js preset, or deploy the produ
 - `scripts/prepare-geography.mjs`: generates local SVG path data from the reference geography; D3 is used during preparation rather than shipped as a map-rendering engine.
 - `tests/`: browser interaction, responsive layout, asset, and accessibility checks.
 
-The maps use lightweight SVG paths. CSS transitions provide restrained motion, and the design respects reduced-motion preferences. The main narrative is server-rendered; the learning tools enhance it in the browser. Images use responsive Next.js optimization and lazy loading. A shared image component preserves the caption and attribution if an image fails to load.
+The original era and treaty maps use lightweight SVG paths. The detailed atlas adds 90 sourced historical stories, five categories, six regional views, seven guided journeys, search, period and year filters, clustered markers, keyboard navigation, animated camera travel, route tracing, fullscreen, and perspective controls. MapLibre GL is loaded when the reader approaches the exhibit; the main narrative remains server-rendered. Motion respects reduced-motion preferences, and playback is opt-in.
+
+Detailed coastlines, lakes, and rivers are stored locally. OpenStreetMap street tiles are enabled at close zooms (zoom 9 and above), with visible attribution, and can be switched off. They provide present-day orientation rather than reconstructed Ottoman streets. The map falls back to its local geography if the tile service is unavailable. The complete story index remains available without WebGL. No map account or API key is required.
+
+`npm ci` and the prebuild script prepare the local MapLibre module worker in the ignored `public/maps/worker/` directory, including its BSD license. Detailed Natural Earth data can be regenerated with `node scripts/prepare-detailed-geography.mjs <input-directory>` from the four pinned 1:10m GeoJSON datasets identified in `data/field-map-provenance.json`. Historical content and tours live in `data/field-atlas.ts`.
+
+Images use responsive Next.js optimization and lazy loading. A shared image component preserves the caption and attribution if an image fails to load.
 
 ## Historical and cartographic method
 

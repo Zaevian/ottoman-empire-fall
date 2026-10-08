@@ -20,6 +20,7 @@ import {
   type Rule,
 } from "@/data/atlas";
 import SourceRefs from "./SourceRefs";
+import FieldAtlasLoader from "./FieldAtlasLoader";
 const colors: Record<Rule, string> = {
   Ottoman: "#994e42",
   Independent: "#768769",
@@ -152,6 +153,7 @@ export default function Atlas() {
           changed—and where a line on a map cannot tell the whole story.
         </p>
       </div>
+      <a className="field-jump" href="#field-atlas">Explore 90 battles, city histories & turning points <ArrowRight size={17} /></a>
       <div className="atlas-frame">
         <div className="atlas-toolbar">
           <span>
@@ -510,6 +512,7 @@ export default function Atlas() {
           separately attributed historical maps in the opening chapter.
         </p>
       </details>
+      <FieldAtlasLoader />
     </section>
   );
 }

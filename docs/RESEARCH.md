@@ -35,7 +35,21 @@ Two independently attributed reconstructions supplement the atlas. The 1683 reco
 
 A draft historical-basemap repository was inspected but excluded because it contained anomalies and explicitly requires independent verification. Its polygons are not included in the application.
 
-## Media
+## Detailed explorer atlas
+
+The explorer contains 90 locality-based entries from the early Ottoman centuries through 1924. Seven guided journeys connect imperial cities, expansion, individual Gallipoli sites, war in the Arab provinces, the republic's emergence, urban development, and civilian experiences. Their dashed lines are learning itineraries, not reconstructed military routes.
+
+Britannica's city, ruler, and battle references were retrieved for urban chronology, early campaigns, monuments, and the independence-war milestones. National Army Museum accounts of Mesopotamia and Megiddo were retrieved for Kut, Baghdad, Palestine, and the advance toward Damascus. Imperial War Museums' current Gallipoli overview was consulted alongside the existing war bibliography. Broad scholarly references remain interpretive context and further reading; adding a map pin does not imply that an entire copyrighted book was retrieved.
+
+City records separate ancient or medieval settlement from Ottoman conquest, capital designation, an Ottoman urban foundation, a specific monument, or gradual commercial development. Sarajevo's Ottoman urban growth is placed in an already inhabited valley. Edirne uses a 1360s period because precise conquest and capital chronologies vary. Basra's seventh-century origin is explicit. Ankara's 13 October 1923 capital designation precedes the republic's declaration. The Baghdad Railway entry distinguishes 1902–03 arrangements from a completed continuous railway, which did not exist during the Ottoman war years.
+
+The detailed landscape is Natural Earth's public-domain 1:10m land, lakes, rivers, and countries, retrieved from `nvkelso/natural-earth-vector` at immutable revision `ca96624a56bd078437bca8184e78163e5039ad19`. `data/field-map-provenance.json` records inputs, SHA-256 digests, clipping bounds, and output sizes. The preparation script clips to the atlas region, retains five decimal coordinate places, and strips unused properties. This contemporary generalized geometry is not a trench survey, historical shoreline survey, or a source of exact wartime boundaries.
+
+Gallipoli beach and ridge pins permit close camera views. Broad campaigns such as Megiddo and Sakarya remain labeled regional localities. Deir ez-Zor denotes an affected region, not a fabricated camp polygon. Armenian genocide coverage uses the existing USHMM source and clear terminology. Mount Lebanon's famine retains its multiple interacting causes. No exact fire perimeter or unsupported ignition attribution is asserted for Smyrna.
+
+OpenStreetMap raster tiles are a switchable online layer, enabled at close zooms and clearly labeled present-day street detail with contributor attribution. No tiles are bulk downloaded, preloaded for offline use, or stored in the repository. Modern country boundaries are optional orientation. Local geography, the historical index, and source references do not depend on the tile service. Generalized local coastlines have limited precision at beach scale; the fallback notice states this limitation.
+
+## Media provenance
 
 `data/media.json` contains the delivery path, dimensions, caption, creator, date, source record, and rights statement for every included asset. `data/media-provenance.json` preserves the catalog metadata retrieved from Library of Congress and Wikimedia Commons. Assets were selected after inspecting those rights statements; age alone was not used to infer reuse permission.
 

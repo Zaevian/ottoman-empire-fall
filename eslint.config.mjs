@@ -6,6 +6,8 @@ export default defineConfig([
   ...nextTs,
   globalIgnores([
     ".next/**",
+    ".vercel/**",
+    "public/maps/worker/**",
     "next-env.d.ts",
     "test-results/**",
     "playwright-report/**",
