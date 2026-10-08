@@ -1,0 +1,3103 @@
+[
+  {
+    "key": "constantinople",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2001699434/",
+        "http://www.loc.gov/item/2001699434/",
+        "http://www.loc.gov/pictures/item/2001699434/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.06069",
+        "http://www.loc.gov/resource/ppmsc.06069/",
+        "http://lccn.loc.gov/2001699434"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:30.197Z",
+      "group": [
+        "pgz",
+        "catalog-split-06",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2001699434/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069_150px.jpg#h=110&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069t.gif#h=110&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069r.jpg#h=469&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069v.jpg#h=751&w=1024"
+      ],
+      "index": 1,
+      "item": {
+        "call_number": "LOT 13428, no. 011 [item] [P&P]",
+        "control_number": "2001699434",
+        "created": "2016-04-20 10:09:39",
+        "created_published": "[between ca. 1890 and ca. 1900].",
+        "created_published_date": "[between ca. 1890 and ca. 1900].",
+        "date": "[between ca. 1890 and ca. 1900].",
+        "digital_id": [
+          "ppmsc 06069 //hdl.loc.gov/loc.pnp/ppmsc.06069"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2001699434",
+        "link": "//www.loc.gov/pictures/item/2001699434/",
+        "marc": "//www.loc.gov/pictures/item/2001699434/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-20 10:09:39",
+        "notes": [
+          "Title from the Detroit Publishing Co., Catalogue J foreign section, Detroit, Mich. : Detroit Publishing Company, 1905.",
+          "Print no. \"6193\".",
+          "More information about the Photochrom Print Collection is available at http://hdl.loc.gov/loc.pnp/pp.pgz",
+          "Forms part of: Views of People and sites in Turkey in the Photochrom print collection."
+        ],
+        "number_former_id": [
+          "https://www.loc.gov/item/2001699434",
+          "https://www.loc.gov/item/12525662"
+        ],
+        "part_of": "Views of people and sites in Turkey",
+        "place": [
+          {
+            "latitude": "",
+            "link": "//www.loc.gov/pictures/related/?fi=place&q=Turkey--Istanbul&co=pgz",
+            "longitude": "",
+            "title": "Turkey--Istanbul"
+          }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsc-06069 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsc.06069"
+        ],
+        "rights_advisory": "No known restrictions on reproduction.",
+        "rights_information": "No known restrictions on reproduction.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of people and sites in Turkey"
+        ],
+        "source_created": "2001-09-05 00:00:00",
+        "source_modified": "2009-12-16 20:49:09",
+        "subject_headings": [
+          "Turkey--Istanbul.",
+          "Turkey--Istanbul"
+        ],
+        "subjects": [
+          "Turkey--Istanbul"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069_150px.jpg",
+        "title": "[Stamboul, Constantinople, Turkey]"
+      },
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.0666666667,
+        28.9333333333
+      ],
+      "location": [
+        "istanbul",
+        "turkey"
+      ],
+      "location_country": [
+        "turkey"
+      ],
+      "location_county": [
+        "istanbul"
+      ],
+      "location_str": "",
+      "locations": [
+        [
+          {
+            "geometry": [
+              "type",
+              "coordinates"
+            ],
+            "properties": [
+              "is_composite",
+              "name",
+              "area",
+              "importance",
+              "is_primary",
+              "alternate",
+              "id",
+              "admin",
+              "feature_code",
+              "feature_code_name",
+              "timeframe",
+              "uris",
+              "population"
+            ],
+            "type": "Feature"
+          }
+        ]
+      ],
+      "lonlat": [
+        28.9333333333,
+        41.0666666667
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2001699434",
+        "2009-12-16t20:49:09",
+        "http://www.loc.gov/item/12525662",
+        "2001699434"
+      ],
+      "number_former_id": [
+        "http://www.loc.gov/item/2001699434",
+        "http://www.loc.gov/item/12525662"
+      ],
+      "number_lccn": [
+        "2001699434"
+      ],
+      "number_source_modified": [
+        "2009-12-16t20:49:09"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 13428",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "photochrom prints"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13428&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2001699434&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06069_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsc.06069/"
+        }
+      ],
+      "shelf_id": "LOT 13428, no. 011 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "istanbul",
+        "color",
+        "photochrom prints",
+        "turkey"
+      ],
+      "timestamp": "2022-04-30T21:38:21.569Z",
+      "title": "[Stamboul, Constantinople, Turkey]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2001699434/"
+    }
+  },
+  {
+    "key": "bosphorus",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2001699436/",
+        "http://www.loc.gov/item/2001699436/",
+        "http://www.loc.gov/pictures/item/2001699436/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.06071",
+        "http://www.loc.gov/resource/ppmsc.06071/",
+        "http://lccn.loc.gov/2001699436"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:30.197Z",
+      "group": [
+        "pgz",
+        "catalog-split-08",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2001699436/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071_150px.jpg#h=110&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071t.gif#h=110&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071r.jpg#h=470&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071v.jpg#h=752&w=1024"
+      ],
+      "index": 2,
+      "item": {
+        "call_number": "LOT 13428, no. 013 [item] [P&P]",
+        "control_number": "2001699436",
+        "created": "2016-04-20 08:29:23",
+        "created_published": "[between ca. 1890 and ca. 1900].",
+        "created_published_date": "[between ca. 1890 and ca. 1900].",
+        "date": "[between ca. 1890 and ca. 1900].",
+        "digital_id": [
+          "ppmsc 06071 //hdl.loc.gov/loc.pnp/ppmsc.06071"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2001699436",
+        "link": "//www.loc.gov/pictures/item/2001699436/",
+        "marc": "//www.loc.gov/pictures/item/2001699436/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-20 08:29:24",
+        "notes": [
+          "Title from the Detroit Publishing Co., Catalogue J foreign section, Detroit, Mich. : Detroit Publishing Company, 1905.",
+          "Print no. \"6401\".",
+          "More information about the Photochrom Print Collection is available at http://hdl.loc.gov/loc.pnp/pp.pgz",
+          "Forms part of: Views of People and sites in Turkey in the Photochrom print collection."
+        ],
+        "number_former_id": [
+          "https://www.loc.gov/item/2001699436",
+          "https://www.loc.gov/item/12525698"
+        ],
+        "part_of": "Views of people and sites in Turkey",
+        "place": [
+          {
+            "latitude": "",
+            "link": "//www.loc.gov/pictures/related/?fi=place&q=Turkey--Istanbul&co=pgz",
+            "longitude": "",
+            "title": "Turkey--Istanbul"
+          }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsc-06071 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsc.06071"
+        ],
+        "rights_advisory": "No known restrictions on reproduction.",
+        "rights_information": "No known restrictions on reproduction.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of people and sites in Turkey"
+        ],
+        "source_created": "2001-09-05 00:00:00",
+        "source_modified": "2009-12-16 20:48:19",
+        "subject_headings": [
+          "Turkey--Istanbul.",
+          "Turkey--Istanbul"
+        ],
+        "subjects": [
+          "Turkey--Istanbul"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071_150px.jpg",
+        "title": "[Scutari, Constantinople, Turkey]"
+      },
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.0666666667,
+        28.9333333333
+      ],
+      "location": [
+        "istanbul",
+        "turkey"
+      ],
+      "location_country": [
+        "turkey"
+      ],
+      "location_county": [
+        "istanbul"
+      ],
+      "location_str": "",
+      "locations": [
+        [
+          {
+            "geometry": [
+              "type",
+              "coordinates"
+            ],
+            "properties": [
+              "is_composite",
+              "name",
+              "area",
+              "importance",
+              "is_primary",
+              "alternate",
+              "id",
+              "admin",
+              "feature_code",
+              "feature_code_name",
+              "timeframe",
+              "uris",
+              "population"
+            ],
+            "type": "Feature"
+          }
+        ]
+      ],
+      "lonlat": [
+        28.9333333333,
+        41.0666666667
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12525698",
+        "2009-12-16t20:48:19",
+        "http://www.loc.gov/item/2001699436",
+        "2001699436"
+      ],
+      "number_former_id": [
+        "http://www.loc.gov/item/2001699436",
+        "http://www.loc.gov/item/12525698"
+      ],
+      "number_lccn": [
+        "2001699436"
+      ],
+      "number_source_modified": [
+        "2009-12-16t20:48:19"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 13428",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "photochrom prints"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13428&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2001699436&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsc/06000/06071_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsc.06071/"
+        }
+      ],
+      "shelf_id": "LOT 13428, no. 013 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "istanbul",
+        "color",
+        "photochrom prints",
+        "turkey"
+      ],
+      "timestamp": "2022-04-30T21:38:21.569Z",
+      "title": "[Scutari, Constantinople, Turkey]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2001699436/"
+    }
+  },
+  {
+    "key": "palace",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2003653121/",
+        "http://www.loc.gov/item/2003653121/",
+        "http://www.loc.gov/pictures/item/2003653121/",
+        "https://www.loc.gov/pictures/collection/cph/item/2003653121/",
+        "http://www.loc.gov/pictures/collection/cph/item/2003653121/",
+        "http://www.loc.gov/resource/ppmsca.03048/",
+        "http://www.loc.gov/pictures/collection/pgz/item/2003653121/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.03048",
+        "http://lccn.loc.gov/2003653121"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T02:05:11.574Z",
+      "group": [
+        "cph",
+        "pgz",
+        "catalog-split-07",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "photochrom",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2003653121/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048_150px.jpg#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048r.jpg#h=476&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048v.jpg#h=761&w=1024"
+      ],
+      "index": 5,
+      "item": {
+        "call_number": "LOT 14184, no. 622 [item] [P&P]",
+        "control_number": "2003653121",
+        "created": "2017-09-26T06:06:34Z",
+        "created_published": "[between ca. 1890 and ca. 1900]",
+        "created_published_date": "[between ca. 1890 and ca. 1900]",
+        "date": "[between ca. 1890 and ca. 1900]",
+        "digital_id": [
+          "ppmsca 03048 //hdl.loc.gov/loc.pnp/ppmsca.03048"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=cph",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2003653121",
+        "link": "https://www.loc.gov/pictures/item/2003653121/",
+        "location": [
+          "Turkey--Istanbul"
+        ],
+        "marc": "https://www.loc.gov/pictures/item/2003653121/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2017-09-26T06:06:34Z",
+        "notes": [
+          "Title devised by Library staff.",
+          "Print no. \"6034.\"",
+          "Item removed from FOREIGN GEOG FILE - Turkey in 2017.",
+          "More information about the Photochrom Print Collection is available at  http://hdl.loc.gov/loc.pnp/pp.pgz",
+          "Forms part of: Photochrom Print Collection."
+        ],
+        "other_control_numbers": [
+          "13073655"
+        ],
+        "place": [
+          {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Turkey--Istanbul&co=cph",
+            "longitude": "",
+            "title": "Turkey--Istanbul"
+          }
+        ],
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+        "reproduction_number": "LC-DIG-ppmsca-03048 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsca.03048"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048r.jpg",
+        "sort_date": "1890",
+        "source_created": "2003-01-29T00:00:00Z",
+        "source_modified": "2017-09-19T16:57:10Z",
+        "subject_headings": [
+          "Dolmabahçe Sarayı--1890-1900.",
+          "Castles & palaces--Turkey--Istanbul--1890-1900.",
+          "Turkey--Istanbul"
+        ],
+        "subjects": [
+          "Dolmabahçe Sarayı--1890-1900",
+          "Castles & palaces--Turkey--Istanbul--1890-1900"
+        ],
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048_150px.jpg",
+        "title": "[Dolmabahçe Palace, Constantinople, Turkey]"
+      },
+      "language": [
+        "english"
+      ],
+      "location": [
+        "istanbul",
+        "turkey"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2003653121",
+        "2017-09-19t16:57:10",
+        "http://www.loc.gov/item/13073655"
+      ],
+      "number_former_id": [
+        "http://www.loc.gov/item/13073655"
+      ],
+      "number_lccn": [
+        "2003653121"
+      ],
+      "number_source_modified": [
+        "2017-09-19t16:57:10"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "lot 14184",
+        "catalog",
+        "photochrom prints"
+      ],
+      "related": {
+        "group_record": "https://www.loc.gov/pictures/search/?q=LOT 14184&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2003653121&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/03000/03048_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsca.03048/"
+        }
+      ],
+      "shelf_id": "LOT 14184, no. 622 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "castles & palaces",
+        "color",
+        "turkey",
+        "dolmabahçe saray",
+        "istanbul",
+        "photochrom prints"
+      ],
+      "timestamp": "2022-05-01T20:57:01.489Z",
+      "title": "[Dolmabahçe Palace, Constantinople, Turkey]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2003653121/"
+    }
+  },
+  {
+    "key": "damascus",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2002724977/",
+        "http://www.loc.gov/item/2002724977/",
+        "http://www.loc.gov/pictures/item/2002724977/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02667",
+        "http://www.loc.gov/resource/ppmsca.02667/",
+        "http://lccn.loc.gov/2002724977"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:48.022Z",
+      "group": [
+        "pgz",
+        "catalog-split-08",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002724977/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667_150px.jpg#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667t.gif#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667r.jpg#h=481&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667v.jpg#h=769&w=1024"
+      ],
+      "index": 2,
+      "item": {
+        "call_number": "LOT 13424, no. 028 [item] [P&P]",
+        "control_number": "2002724977",
+        "created": "2016-04-21 06:33:50",
+        "created_published": "[between ca. 1890 and ca. 1900]",
+        "created_published_date": "[between ca. 1890 and ca. 1900]",
+        "date": "[between ca. 1890 and ca. 1900]",
+        "digital_id": [
+          "ppmsca 02667 //hdl.loc.gov/loc.pnp/ppmsca.02667"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2002724977",
+        "link": "//www.loc.gov/pictures/item/2002724977/",
+        "marc": "//www.loc.gov/pictures/item/2002724977/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-21 06:33:50",
+        "notes": [
+          "Title from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.",
+          "Print no. \"15080\".",
+          "Forms part of: Views of the Holy Land in the Photochrom print collection."
+        ],
+        "part_of": "Views of the Holy Land",
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-DIG-ppmsca-02667 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsca.02667"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of the Holy Land"
+        ],
+        "source_created": "2002-11-20 00:00:00",
+        "source_modified": "2007-03-19 08:22:07",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667_150px.jpg",
+        "title": "[From Sallah, Damascus, Holy Land, (i.e. Syria)]"
+      },
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-03-19t08:22:07",
+        "2002724977"
+      ],
+      "number_lccn": [
+        "2002724977"
+      ],
+      "number_source_modified": [
+        "2007-03-19t08:22:07"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "photochrom prints",
+        "lot 13424"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13424&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2002724977&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02667_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsca.02667/"
+        }
+      ],
+      "shelf_id": "LOT 13424, no. 028 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "color"
+      ],
+      "timestamp": "2022-04-30T22:19:12.264Z",
+      "title": "[From Sallah, Damascus, Holy Land, (i.e. Syria)]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2002724977/"
+    }
+  },
+  {
+    "key": "damascus-street",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2002724979/",
+        "http://www.loc.gov/item/2002724979/",
+        "http://www.loc.gov/pictures/item/2002724979/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02669",
+        "http://www.loc.gov/resource/ppmsca.02669/",
+        "http://lccn.loc.gov/2002724979"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:48.022Z",
+      "group": [
+        "pgz",
+        "catalog-split-10",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002724979/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669_150px.jpg#h=150&w=112",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669t.gif#h=150&w=112",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669r.jpg#h=640&w=477",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669v.jpg#h=1024&w=763"
+      ],
+      "index": 5,
+      "item": {
+        "call_number": "LOT 13424, no. 030 [item] [P&P]",
+        "control_number": "2002724979",
+        "created": "2016-04-20 08:54:57",
+        "created_published": "[between ca. 1890 and ca. 1900]",
+        "created_published_date": "[between ca. 1890 and ca. 1900]",
+        "date": "[between ca. 1890 and ca. 1900]",
+        "digital_id": [
+          "ppmsca 02669 //hdl.loc.gov/loc.pnp/ppmsca.02669"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2002724979",
+        "link": "//www.loc.gov/pictures/item/2002724979/",
+        "marc": "//www.loc.gov/pictures/item/2002724979/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-20 08:54:57",
+        "notes": [
+          "Title from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.",
+          "Print no. \"15082\".",
+          "Forms part of: Views of the Holy Land in the Photochrom print collection."
+        ],
+        "part_of": "Views of the Holy Land",
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-DIG-ppmsca-02669 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsca.02669"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of the Holy Land"
+        ],
+        "source_created": "2002-11-20 00:00:00",
+        "source_modified": "2009-11-03 11:27:43",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669_150px.jpg",
+        "title": "[The street called straight, Damascus, Holy Land, (i.e. Syria)]"
+      },
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2002724979",
+        "2009-11-03t11:27:43"
+      ],
+      "number_lccn": [
+        "2002724979"
+      ],
+      "number_source_modified": [
+        "2009-11-03t11:27:43"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "photochrom prints",
+        "lot 13424"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13424&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2002724979&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02669_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsca.02669/"
+        }
+      ],
+      "shelf_id": "LOT 13424, no. 030 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "color"
+      ],
+      "timestamp": "2022-04-30T22:19:12.264Z",
+      "title": "[The street called straight, Damascus, Holy Land, (i.e. Syria)]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2002724979/"
+    }
+  },
+  {
+    "key": "jerusalem",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2002724996/",
+        "http://www.loc.gov/item/2002724996/",
+        "http://www.loc.gov/pictures/item/2002724996/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02685",
+        "http://www.loc.gov/resource/ppmsca.02685/",
+        "http://lccn.loc.gov/2002724996"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:48.022Z",
+      "group": [
+        "pgz",
+        "catalog-split-09",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002724996/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685_150px.jpg#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685r.jpg#h=477&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685v.jpg#h=763&w=1024"
+      ],
+      "index": 3,
+      "item": {
+        "call_number": "LOT 13424, no. 047 [item] [P&P]",
+        "control_number": "2002724996",
+        "created": "2016-04-21 10:15:53",
+        "created_published": "[between ca. 1890 and ca. 1900]",
+        "created_published_date": "[between ca. 1890 and ca. 1900]",
+        "date": "[between ca. 1890 and ca. 1900]",
+        "digital_id": [
+          "ppmsca 02685 //hdl.loc.gov/loc.pnp/ppmsca.02685"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2002724996",
+        "link": "//www.loc.gov/pictures/item/2002724996/",
+        "marc": "//www.loc.gov/pictures/item/2002724996/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-21 10:15:53",
+        "notes": [
+          "Title from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.",
+          "Print no. \"15145\".",
+          "Forms part of: Views of the Holy Land in the Photochrom print collection."
+        ],
+        "part_of": "Views of the Holy Land",
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-DIG-ppmsca-02685 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsca.02685"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of the Holy Land"
+        ],
+        "source_created": "2002-11-25 00:00:00",
+        "source_modified": "2007-03-29 16:19:07",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685_150px.jpg",
+        "title": "[General view, Jerusalem, Holy Land]"
+      },
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2002724996",
+        "2007-03-29t16:19:07"
+      ],
+      "number_lccn": [
+        "2002724996"
+      ],
+      "number_source_modified": [
+        "2007-03-29t16:19:07"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "photochrom prints",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "lot 13424"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13424&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2002724996&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02600/02685_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsca.02685/"
+        }
+      ],
+      "shelf_id": "LOT 13424, no. 047 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "color"
+      ],
+      "timestamp": "2022-04-30T22:19:12.264Z",
+      "title": "[General view, Jerusalem, Holy Land]",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2002724996/"
+    }
+  },
+  {
+    "key": "jerusalem-workers",
+    "record": {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pgz/item/2003653058/",
+        "http://www.loc.gov/item/2003653058/",
+        "http://www.loc.gov/pictures/item/2003653058/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02758",
+        "http://www.loc.gov/resource/ppmsca.02758/",
+        "http://lccn.loc.gov/2003653058"
+      ],
+      "campaigns": [],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photomechanical print : photochrom, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:59:48.406Z",
+      "group": [
+        "pgz",
+        "catalog-split-00",
+        "catalog",
+        "photochrom",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2003653058/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758_150px.jpg#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758t.gif#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758r.jpg#h=481&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758v.jpg#h=770&w=1024"
+      ],
+      "index": 2,
+      "item": {
+        "call_number": "LOT 13424, no. 127 [item] [P&P]",
+        "control_number": "2003653058",
+        "created": "2016-04-20 23:31:45",
+        "created_published": "[between ca. 1890 and ca. 1900]",
+        "created_published_date": "[between ca. 1890 and ca. 1900]",
+        "date": "[between ca. 1890 and ca. 1900]",
+        "digital_id": [
+          "ppmsca 02758 //hdl.loc.gov/loc.pnp/ppmsca.02758"
+        ],
+        "display_offsite": true,
+        "format": [
+          "still image"
+        ],
+        "formats": [
+          {
+            "link": "//www.loc.gov/pictures/related/?fi=format&q=Photochrom%20prints--Color--1890-1900.&co=pgz",
+            "title": "Photochrom prints--Color--1890-1900."
+          }
+        ],
+        "genre": [
+          "Photochrom prints--Color--1890-1900"
+        ],
+        "id": "2003653058",
+        "link": "//www.loc.gov/pictures/item/2003653058/",
+        "marc": "//www.loc.gov/pictures/item/2003653058/marc/",
+        "medium": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "medium_brief": "1 photomechanical print :",
+        "mediums": [
+          "1 photomechanical print : photochrom, color."
+        ],
+        "modified": "2016-04-20 23:31:45",
+        "notes": [
+          "Title from item. Translated from the Detroit Publishing Co., catalogue J foreign section. Detroit, Mich. : Detroit Photographic Company, 1905.",
+          "Print no. \"15116\".",
+          "Forms part of: Views of the Holy Land in the Photochrom print collection."
+        ],
+        "other_title": [
+          "[Stone cutters of Jerusalem, Holy Land]"
+        ],
+        "part_of": "Views of the Holy Land",
+        "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+        "reproduction_number": "LC-DIG-ppmsca-02758 (digital file from original)",
+        "resource_links": [
+          "//hdl.loc.gov/loc.pnp/ppmsca.02758"
+        ],
+        "rights_advisory": "No known restrictions on publication.",
+        "rights_information": "No known restrictions on publication.",
+        "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758_150px.jpg",
+        "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758r.jpg",
+        "sort_date": "1890",
+        "source_collection": [
+          "Views of the Holy Land"
+        ],
+        "source_created": "2003-01-24 00:00:00",
+        "source_modified": "2009-11-03 11:34:00",
+        "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758_150px.jpg",
+        "title": "Tailleurs de pierres à Jérusalem",
+        "translated_title": [
+          "[Stone cutters of Jerusalem, Holy Land]"
+        ]
+      },
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2009-11-03t11:34:00",
+        "2003653058"
+      ],
+      "number_lccn": [
+        "2003653058"
+      ],
+      "number_source_modified": [
+        "2009-11-03t11:34:00"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "photochrom prints",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "lot 13424"
+      ],
+      "related": {
+        "group_record": "//www.loc.gov/pictures/search/?q=LOT 13424&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+        "neighbors": "//www.loc.gov/pictures/related/?&co=pgz&pk=2003653058&st=gallery&sb=call_number#focus"
+      },
+      "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+      "resources": [
+        {
+          "caption": "digital file from  original",
+          "files": 1,
+          "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02700/02758_150px.jpg",
+          "url": "https://www.loc.gov/resource/ppmsca.02758/"
+        }
+      ],
+      "shelf_id": "LOT 13424, no. 127 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photochrom prints",
+        "color"
+      ],
+      "timestamp": "2022-04-30T22:19:44.949Z",
+      "title": "Tailleurs de pierres à Jérusalem",
+      "unrestricted": true,
+      "url": "https://www.loc.gov/item/2003653058/"
+    }
+  },
+  {
+    "key": "parliament",
+    "record": {
+      "pageid": 29436665,
+      "ns": 6,
+      "title": "File:Ottoman Parliament Dec1908.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ottoman_Parliament_Dec1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 1089,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ottoman_Parliament_Dec1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1089
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ottoman_Parliament_Dec1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ottoman_Parliament_Dec1908.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29436665",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2013-11-05 16:02:29",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Ottoman Parliament Dec1908",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "1908 in the Ottoman Empire|Second Constitutional Era|Parliament of the Ottoman Empire|Files with no machine-readable author|Media lacking author information|PD-Ottoman|Old Darülfünun building|Historical images of the Ottoman Empire|Abdul Hamid II in 1908",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Ottoman parliament in December 1908 (<a href=\"//commons.wikimedia.org/w/index.php?title=Second_Constitutional_Era&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Second Constitutional Era (page does not exist)\">Second Constitutional Era</a> of the <a href=\"//commons.wikimedia.org/wiki/Ottoman_Empire\" class=\"mw-redirect\" title=\"Ottoman Empire\">Ottoman Empire</a>)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1908-12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.mideastimage.com/cities/istanbul.php\">http://www.mideastimage.com/cities/istanbul.php</a>",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "This work first published in the <a href=\"https://en.wikipedia.org/wiki/Ottoman_Empire\" class=\"extiw\" title=\"en:Ottoman Empire\">Ottoman Empire</a> is now in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> because the Empire's copyright formalities were not met (copyright notice, registration, and deposit), or because the copyright term (30 years after the death of the author, sometimes less) expired before the Empire was dissolved (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Ottoman_Empire\" title=\"Commons:Copyright rules by territory/Ottoman Empire\">details</a>).",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "enver",
+    "record": {
+      "pageid": 2729289,
+      "ns": 6,
+      "title": "File:Enver Bey.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Enver_Bey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 2353,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Enver_Bey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2353
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Enver_Bey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Enver_Bey.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2729289",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-09-11 18:08:27",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Enver Bey",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Karakul caps|Collier's New Photographic History of the World's War|CC-PD-Mark|Black and white photographs of World War I|PD-old-95-expired|Portraits of Enver Pasha|Enver Pasha in 1915",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "أنور باشا، وزير الحربيَّة العُثماني. تصوير كارل بيتزنر، سنة 1910م.<sup id=\"cite_ref-Enver_1-0\" class=\"reference\"><a href=\"#cite_note-Enver-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "circa 1910<div style=\"display: none;\">date QS:P,+1910-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "\"Collier's New Photographic History of the World's War\" (1919), page 11",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18507986\" class=\"extiw\" title=\"d:Q18507986\"><span title=\"Austrian photographer (1853-1927)\">Carl Pietzner</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "talaat",
+    "record": {
+      "pageid": 162587451,
+      "ns": 6,
+      "title": "File:Talaat Bey (portrait) - btv1b6923287z.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg/1920px-Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 2474,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/9/98/Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg/1920px-Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2474,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/98/Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Talaat_Bey_%28portrait%29_-_btv1b6923287z.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Talaat_Bey_(portrait)_-_btv1b6923287z.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162587451",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2025-03-21 21:53:31",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "<div class=\"fn\">\nTalaat Bey [portrait] : [photographie de presse] / [Agence Rol]</div>",
+              "source": "commons-desc-page"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Talaat Pasha|Artworks without Wikidata item|PD-1996|PD US expired|PD France|Files from Gallica|Images from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot|Photographs by Agence Rol in the Bibliothèque nationale de France|1913 photographs by Agence Rol|Black and white photographs from Gallica",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<div class=\"fn value\">\nAgence Rol. Agence photographique (commanditaire)</div>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Sujet : Talât Paşa (1874-1921) -- Portraits\n<p>Hommes politiques -- Turquie\nPhotographie de presse -- 1900-1945\nRéférence bibliographique : Rol, 26304\nAppartient à l’ensemble documentaire : Pho20Rol\nCouverture : .. 1913\n</p>\nLangue : français",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Bibliothèque nationale de France",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "ataturk",
+    "record": {
+      "pageid": 80939235,
+      "ns": 6,
+      "title": "File:Gazi Mustafa Kemal, İzmit, 18 Ocak 1923.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gazi_Mustafa_Kemal%2C_%C4%B0zmit%2C_18_Ocak_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 4291,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gazi_Mustafa_Kemal%2C_%C4%B0zmit%2C_18_Ocak_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 4291
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gazi_Mustafa_Kemal%2C_%C4%B0zmit%2C_18_Ocak_1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gazi_Mustafa_Kemal,_%C4%B0zmit,_18_Ocak_1923.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80939235",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-08-01 07:56:30",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Gazi Mustafa Kemal, İzmit, 18 Ocak 1923",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "History of İzmit|Turkey photographs taken on 1923-01-18|PD Tr|Portraits of Atatürk|Template Unknown (author)|Mustafa Kemal Atatürk in 1923",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Gazi Mustafa Kemal (Atatürk), İzmit, 18 Ocak 1923",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1923-01-18",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://i0.wp.com/mustafakemalim.com/wp-content/uploads/2018/04/Atat%C3%BCrk%C3%BCn-y%C3%BCksek-kalite-foto%C4%9Fraflar%C4%B1-sitesi.jpg?w=716&amp;ssl=1\">https://i0.wp.com/mustafakemalim.com/wp-content/uploads/2018/04/Atat%C3%BCrk%C3%BCn-y%C3%BCksek-kalite-foto%C4%9Fraflar%C4%B1-sitesi.jpg?w=716&amp;ssl=1</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "mehmed",
+    "record": {
+      "pageid": 46472346,
+      "ns": 6,
+      "title": "File:Sébah & Joaillier - Sultan Mehmed VI.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg/1920px-S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 2788,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/35/S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg/1920px-S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2788,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/35/S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:S%C3%A9bah_%26_Joaillier_-_Sultan_Mehmed_VI.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=46472346",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-10-31 16:22:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sébah & Joaillier - Sultan Mehmed VI",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Images from the Library of Congress|Mehmed VI|Sebah & Joaillier|Attribution only license|Featured pictures on Wikipedia, English|PD-old-75-expired|Featured pictures on Wikipedia, Persian|CC-PD-Mark|Black and white portrait photographs of military people in uniform|Black and white photographs of sitting men|Black and white portrait photographs of men at three-quarter length|Undeleted in 2018|1920 black and white portrait photographs of men|Files with Assessments template missing SDC Commons no value quality assessment|Featured pictures on Wikipedia, Arabic",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "c. 1920 photograph of Sultan <a href=\"https://en.wikipedia.org/wiki/Mehmet_VI\" class=\"extiw\" title=\"en:Mehmet VI\">Mehmet VI</a>, the last sultan of the <a href=\"https://en.wikipedia.org/wiki/Ottoman_Empire\" class=\"extiw\" title=\"en:Ottoman Empire\">Ottoman Empire</a>. Restored by <a href=\"//commons.wikimedia.org/wiki/User:Adam_Cuerden\" title=\"User:Adam Cuerden\">Adam Cuerden</a>",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "between 1918 and 1922<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1918-00-00T00:00:00Z/9,P1326,+1922-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ppmsca.04928\">ppmsca.04928</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<p>Sebah &amp; Joaillier, that is:\n</p>\n<ul><li>Jean Pascal Sébah (1872-1947)</li>\n<li>Polycarpe Joaillier (1848-1904)</li></ul>\nRestoration by <a href=\"//commons.wikimedia.org/wiki/User:Adam_Cuerden\" title=\"User:Adam Cuerden\">Adam Cuerden</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "hussein",
+    "record": {
+      "pageid": 42684486,
+      "ns": 6,
+      "title": "File:King Hussein 1924 portrait.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/King_Hussein_1924_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 2567,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/King_Hussein_1924_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2567
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/King_Hussein_1924_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:King_Hussein_1924_portrait.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42684486",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-08-27 04:20:36",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "King Hussein 1924 portrait",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Images from the Library of Congress|Hussein bin Ali|Retouched pictures|PD-Matson|Extracted images|Library of Congress-no known copyright restrictions",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "King Hussein ibn Ali in Amman, 1924",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1924",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/matpc.05808\">matpc.05808</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "American Colony (Jerusalem). Photo Dept., photographer",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "faisal",
+    "record": {
+      "pageid": 16890968,
+      "ns": 6,
+      "title": "File:FeisalPartyAtVersaillesCopy.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/FeisalPartyAtVersaillesCopy.jpg/1920px-FeisalPartyAtVersaillesCopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1360,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/FeisalPartyAtVersaillesCopy.jpg/3840px-FeisalPartyAtVersaillesCopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/FeisalPartyAtVersaillesCopy.jpg/1920px-FeisalPartyAtVersaillesCopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1360,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/FeisalPartyAtVersaillesCopy.jpg/3840px-FeisalPartyAtVersaillesCopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/FeisalPartyAtVersaillesCopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:FeisalPartyAtVersaillesCopy.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16890968",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-08-14 12:18:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "FeisalPartyAtVersaillesCopy",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Faisal I of Iraq|Rustam Haidar|Treaty of Versailles|Images from the National Archives and Records Administration|Slaves|PD-Jordan|Nuri as-Said|Rosario Pisani|Agal|Public domain images no longer eligible for claim of authorship|Slavery in Islam|Arab Kingdom of Syria|Images with extracted images|PD US expired|Thomas Edward Lawrence in 1919|1919 black and white photographs|Files with Assessments template missing SDC Commons no value quality assessment|Featured pictures on Wikipedia, Arabic|20th-century black and white portrait photographs of men at full length in military uniforms|Photos of people at Paris Peace Conference, 1919",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Feisal party at <a href=\"https://en.wikipedia.org/wiki/Paris_Peace_Conference,_1919\" class=\"extiw\" title=\"w:Paris Peace Conference, 1919\">Versailles Conference</a>. Left to right: <a href=\"https://en.wikipedia.org/wiki/Rustam_Haidar\" class=\"extiw\" title=\"en:Rustam Haidar\">Rustam Haidar</a>, Nuri as-Said (<a href=\"https://en.wikipedia.org/wiki/Nuri_al-Said\" class=\"extiw\" title=\"en:Nuri al-Said\">Nuri al-Said</a>), Prince <a href=\"https://en.wikipedia.org/wiki/Faisal_I_of_Iraq\" class=\"extiw\" title=\"en:Faisal I of Iraq\">Faisal</a> (front), <a href=\"https://en.wikipedia.org/wiki/Rosario_Pisani\" class=\"extiw\" title=\"en:Rosario Pisani\">Captain Rosario Pisani (rear)</a>, <a href=\"https://en.wikipedia.org/wiki/T._E._Lawrence\" class=\"extiw\" title=\"en:T. E. Lawrence\">T. E. Lawrence</a>, Faisal's slave (name unknown), Captain Hassan Khadri.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1919",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/Lowell_Thomas\" class=\"extiw\" title=\"w:Lowell Thomas\">Lowell Thomas</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "gallipoli",
+    "record": {
+      "pageid": 67352654,
+      "ns": 6,
+      "title": "File:Turk soldiers, Gallipoli LCCN2014700276.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg/1920px-Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1316,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg/3840px-Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg/1920px-Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1316,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg/3840px-Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Turk_soldiers%2C_Gallipoli_LCCN2014700276.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turk_soldiers,_Gallipoli_LCCN2014700276.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=67352654",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2018-12-13 16:14:06",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Turk soldiers, Gallipoli LCCN2014700276",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Images from the Library of Congress|PD-Bain|George Grantham Bain Collection|PD-old-70-expired|Images uploaded by Fæ|CC-PD-Mark|Library of Congress-no known copyright restrictions|PD-old missing SDC copyright status|World War I forces of the Ottoman Empire at Gallipoli",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<i>Title:</i> Turk soldiers, Gallipoli\n<i>Abstract/medium:</i> 1 negative : glass ; 5 x 7 in. or smaller.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1915",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<p>Library of Congress\n</p>\n<ul><li><i>Catalog:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://lccn.loc.gov/2014700276\">https://lccn.loc.gov/2014700276</a></li>\n<li><i>Image download:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://cdn.loc.gov/service/pnp/ggbain/20300/20342v.jpg\">https://cdn.loc.gov/service/pnp/ggbain/20300/20342v.jpg</a></li>\n<li><i>Original url:</i> <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/pictures/item/2014700276/\">https://www.loc.gov/pictures/item/2014700276/</a></li></ul>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Bain News Service, publisher",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/ggbain.20342\">ggbain.20342</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "occupation",
+    "record": {
+      "pageid": 2123421,
+      "ns": 6,
+      "title": "File:Occupation of Istanbul - British troops in Galata.png",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Occupation_of_Istanbul_-_British_troops_in_Galata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 1142,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Occupation_of_Istanbul_-_British_troops_in_Galata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1142
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Occupation_of_Istanbul_-_British_troops_in_Galata.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Occupation_of_Istanbul_-_British_troops_in_Galata.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2123421",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-05-18 14:33:32",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Occupation of Istanbul - British troops in Galata",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Occupation of Constantinople|Galata|Files with no machine-readable author|PD Old|Media lacking author information|CC-PD-Mark|Many people|PD-old missing SDC copyright status",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "End of the World War I and early times of the Turkish War of Independence -&gt; British troops in Galata during the <a href=\"https://en.wikipedia.org/wiki/Occupation_of_Istanbul\" class=\"extiw\" title=\"en:Occupation of Istanbul\">Occupation of Istanbul</a>. The occupation forces.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "between 1919 and 1920<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1919-00-00T00:00:00Z/9,P1326,+1920-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "The image is scanned from the monthly journal Tempo on May 2007. Published many places.",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td rowspan=\"2\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 70 years or fewer</b>.\n</p>\n<hr>\n<span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"> Note that a few countries have copyright terms longer than 70 years: Mexico has 100 years, Jamaica has 95 years, Colombia has 80 years, and Guatemala and Samoa have 75 years. This image may <i>not</i> be in the public domain in these countries, which moreover do <i>not</i> implement the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a>. Honduras has a general copyright term of 75 years, but it <i>does</i> implement the rule of the shorter term. Copyright may extend on works created by French who died for France in <a href=\"https://en.wikipedia.org/wiki/World_War_II\" class=\"extiw\" title=\"w:World War II\">World War II</a> (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/France\" title=\"Commons:Copyright rules by territory/France\">more information</a>), Russians who served in <a href=\"https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)\" class=\"extiw\" title=\"w:Eastern Front (World War II)\">the Eastern Front of World War II</a> (known as the Great Patriotic War in Russia) and posthumously <a href=\"https://en.wikipedia.org/wiki/Rehabilitation_(Soviet)\" class=\"extiw\" title=\"w:Rehabilitation (Soviet)\">rehabilitated</a> victims of Soviet repressions (<a href=\"//commons.wikimedia.org/wiki/Template:PD-Russia\" title=\"Template:PD-Russia\">more information</a>).</div></small>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "treaty",
+    "record": {
+      "pageid": 18200886,
+      "ns": 6,
+      "title": "File:Venizelos signing the Treaty of Sevres.jpeg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Venizelos_signing_the_Treaty_of_Sevres.jpeg/1920px-Venizelos_signing_the_Treaty_of_Sevres.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1308,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Venizelos_signing_the_Treaty_of_Sevres.jpeg/3840px-Venizelos_signing_the_Treaty_of_Sevres.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Venizelos_signing_the_Treaty_of_Sevres.jpeg/1920px-Venizelos_signing_the_Treaty_of_Sevres.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1308,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Venizelos_signing_the_Treaty_of_Sevres.jpeg/3840px-Venizelos_signing_the_Treaty_of_Sevres.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Venizelos_signing_the_Treaty_of_Sevres.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venizelos_signing_the_Treaty_of_Sevres.jpeg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18200886",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-09-25 18:26:25",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Venizelos signing the Treaty of Sevres",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Treaty of Sèvres|Images from Gallica to be checked|PD US expired|PD France|Files from Gallica|August 1920 France photographs|PD-US missing SDC copyright status|Photographs of Eleftherios Venizelos|1920 photographs by Agence Meurisse",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Greek prime minister Eleftherios Venizelos signing the Treaty of Sevres",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "Taken in August 1920",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Bibliothèque nationale de France",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q13230870\" class=\"extiw\" title=\"d:Q13230870\"><span title=\"French news agency\">Agence de presse Meurisse</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "balfour",
+    "record": {
+      "pageid": 3940876,
+      "ns": 6,
+      "title": "File:Balfour declaration unmarked.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balfour_declaration_unmarked.jpg/1920px-Balfour_declaration_unmarked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 2369,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balfour_declaration_unmarked.jpg/3840px-Balfour_declaration_unmarked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balfour_declaration_unmarked.jpg/1920px-Balfour_declaration_unmarked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2369,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Balfour_declaration_unmarked.jpg/3840px-Balfour_declaration_unmarked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Balfour_declaration_unmarked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Balfour_declaration_unmarked.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3940876",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-07-16 09:02:46",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Balfour declaration unmarked",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Balfour Declaration|UK Government artistic works|PD US expired|Documents about Alfred Milner, 1st Viscount Milner",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Balfour declaration",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1917-11-02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "British Library. Originally published 9 November 1917",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "United Kingdom Government signed by <a href=\"https://en.wikipedia.org/wiki/Arthur_Balfour\" class=\"extiw\" title=\"en:Arthur Balfour\">Arthur Balfour</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "baghdad",
+    "record": {
+      "pageid": 8474882,
+      "ns": 6,
+      "title": "File:Baghdad Railway Euphrates wooden bridge.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baghdad_Railway_Euphrates_wooden_bridge.jpg/1920px-Baghdad_Railway_Euphrates_wooden_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1545,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baghdad_Railway_Euphrates_wooden_bridge.jpg/3840px-Baghdad_Railway_Euphrates_wooden_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baghdad_Railway_Euphrates_wooden_bridge.jpg/1920px-Baghdad_Railway_Euphrates_wooden_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1545,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Baghdad_Railway_Euphrates_wooden_bridge.jpg/3840px-Baghdad_Railway_Euphrates_wooden_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Baghdad_Railway_Euphrates_wooden_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Baghdad_Railway_Euphrates_wooden_bridge.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8474882",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-06-03 13:10:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Baghdad Railway Euphrates wooden bridge",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "PD US Government|Images from the Library of Congress|CC-PD-Mark|Wooden railway bridges|Euphrates Bridge of the Baghdad Railway",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A wooden bridge of the Baghdad Railway across the river Euphrates, circa 1900-1910.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "between 1900 and 1910<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:00Z/9,P1326,+1910-00-00T00:00:00Z/9</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/matpc.04668\">matpc.04668</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "American Colony (Jerusalem). Photo Dept., photographer.",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "No known restrictions on publication.",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "refugees",
+    "record": {
+      "pageid": 59808423,
+      "ns": 6,
+      "title": "File:Sarrafian-family portret.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sarrafian-family_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 1242,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sarrafian-family_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1242
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sarrafian-family_portret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sarrafian-family_portret.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=59808423",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2017-06-10 19:08:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sarrafian-family portret",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Armenians|PD-old-70-expired|Template Unknown (author)|CC-PD-Mark|PD-old missing SDC copyright status|Group photographs of sitting people|Files uploaded by Beko",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Sarrafian-family portret in 1900s",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1900s<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/8</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "onefineart.com",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "kurdistan",
+    "record": {
+      "pageid": 77215912,
+      "ns": 6,
+      "title": "File:Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia 01.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/1920px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1543,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/3840px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/1920px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1543,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/3840px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maunsell%27s_map,_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia,_Syria_and_western_Persia_01.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77215912",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-03-09 20:45:21",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia 01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Maps of the Fertile Crescent|Images with extracted images|Large images|20th-century maps of the Near East|PD-old-80-expired|Maps of ethnic groups in the Ottoman Empire|CC-PD-Mark|1910 maps of Asia|PD-old missing SDC copyright status|Maps of ethnic groups in Asia",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Maunsell%27s_map,_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia,_Syria_and_western_Persia_01_(ethnographical_key).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg/250px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"250\" height=\"615\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg/500px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"896\" data-file-height=\"2204\"></a><figcaption>Key</figcaption></figure>Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1910",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Library of Congress: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/resource/g7431e.ct002182/?r=-0.507,0.215,1.553,0.83,0\">https://www.loc.gov/resource/g7431e.ct002182/?r=-0.507,0.215,1.553,0.83,0</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Lieutenant Colonel Francis Richard Maunsell (1861 - 1936) <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.geographicus.com/P/AntiqueMap/kurdistan-maunsell-1894\">[1]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.jstor.org/stable/1776092?seq=3#metadata_info_tab_contents\">[2]</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "caliph",
+    "record": {
+      "pageid": 25015424,
+      "ns": 6,
+      "title": "File:Caliph Abdulmecid II of the Ottoman Empire.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Caliph_Abdulmecid_II_of_the_Ottoman_Empire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1800,
+          "thumbheight": 2202,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Caliph_Abdulmecid_II_of_the_Ottoman_Empire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 2202
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Caliph_Abdulmecid_II_of_the_Ottoman_Empire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Caliph_Abdulmecid_II_of_the_Ottoman_Empire.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25015424",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2017-12-23 15:06:17",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Caliph Abdulmecid II of the Ottoman Empire",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Abdül Mecid II|Dürrüşehvar Sultan|Azam Jah|Images from the National Portrait Gallery, London|Works possibly copyrighted in the U.S.|Items with copyright claims|PD-old-80|CC-PD-Mark|20th-century portrait photographs in the National Portrait Gallery, London|United Kingdom photographs taken on 1931-11-19",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Artist": {
+              "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q86838060\" class=\"extiw\" title=\"d:Q86838060\"><span title=\"London photographic studio\">Vandyk photographic studio</span></a></bdi>",
+              "source": "commons-desc-page"
+            },
+            "ImageDescription": {
+              "value": "Princess Durrushehvar, Princess of Berar; former Caliph Abdulmejid II (şehzade of the Ottoman Empire) and Nawab Azam Jah, Prince of Berar.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "19 November 1931<div style=\"display: none;\">date QS:P571,+1931-11-19T00:00:00Z/11</div>",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "one or more <b>third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof</b>. This may be due to recognition of the \"<a href=\"https://en.wikipedia.org/wiki/sweat_of_the_brow\" class=\"extiw\" title=\"w:sweat of the brow\">sweat of the brow</a>\" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.\nAs such, use of this image in the jurisdiction of the claimant or other countries <i>may</i> be regarded as <b>copyright infringement</b>. Please see <a href=\"//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag\" title=\"Commons:When to use the PD-Art tag\">Commons:When to use the PD-Art tag</a> for more information.",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "extent",
+    "record": {
+      "pageid": 1481708,
+      "ns": 6,
+      "title": "File:OttomanEmpireIn1683.png",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/OttomanEmpireIn1683.png/1280px-OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1204,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/OttomanEmpireIn1683.png/1280px-OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1204,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/OttomanEmpireIn1683.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:OttomanEmpireIn1683.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1481708",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-09-17 17:35:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "OttomanEmpireIn1683",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Historical map images that should use vector graphics|PD-self|PNG that should use vector graphics|1680s maps of Egypt|Maps of the Ottoman Empire in 1683",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Map depicting the <a href=\"https://en.wikipedia.org/wiki/Ottoman_Empire\" class=\"extiw\" title=\"en:Ottoman Empire\">Ottoman Empire</a> at <a href=\"https://en.wikipedia.org/wiki/Territorial_evolution_of_the_Ottoman_Empire\" class=\"extiw\" title=\"en:Territorial evolution of the Ottoman Empire\">its greatest extent</a>, in <a href=\"https://en.wikipedia.org/wiki/1683\" class=\"extiw\" title=\"en:1683\">1683</a>.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2006-12-21",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Self drawn, mainly based on <i>Robert Mantran (ed.), Histoire de l'Empire Ottoman, Paris: Fayard (1989)</i>, also <a href=\"https://en.wikipedia.org/wiki/List_of_Ottoman_Empire_dominated_territories\" class=\"extiw\" title=\"en:List of Ottoman Empire dominated territories\">en:List of Ottoman Empire dominated territories</a>, <a href=\"//commons.wikimedia.org/wiki/File:Ottoman_1683.png\" title=\"File:Ottoman 1683.png\">Image:Ottoman 1683.png</a>, <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://fs.huntingdon.edu/jlewis/Syl/IRcomp/Maps/OttomanMap.jpg\">[1]</a>, and <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.morainevalley.edu/ctl/MiddleEast/images/Map_Ottoman_Empire_expansion_EB.jpg\">[2]</a>. Background map modified from <a href=\"//commons.wikimedia.org/wiki/File:A_large_blank_world_map_with_oceans_marked_in_blue.svg\" title=\"File:A large blank world map with oceans marked in blue.svg\">Image:A large blank world map with oceans marked in blue.svg</a>.",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/User:AtilimGunesBaydin\" class=\"extiw\" title=\"en:User:AtilimGunesBaydin\">Atilim Gunes Baydin</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "provinces",
+    "record": {
+      "pageid": 23345667,
+      "ns": 6,
+      "title": "File:Sanjaks and Vilayets of the Ottoman Empire, 1914.png",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png/1920px-Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1254,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png/1920px-Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1254,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sanjaks_and_Vilayets_of_the_Ottoman_Empire%2C_1914.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sanjaks_and_Vilayets_of_the_Ottoman_Empire,_1914.png",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23345667",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2012-12-26 19:17:34",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sanjaks and Vilayets of the Ottoman Empire, 1914",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Maps of the Ottoman Empire in the 20th century|Maps of sanjaks of the Ottoman Empire",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "XY Sanjak, Ottoman Empire (1914). Source: <i><a rel=\"nofollow\" class=\"external text\" href=\"https://books.google.com/books?id=JwUZ2HeAn8UC&amp;pg=PR12\">Crime of Numbers: The Role of Statistics in the Armenian Question (1878-1918)</a></i> at Google Books By Fuat Dündar",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2012-12-23",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Underlying_lk\" title=\"User:Underlying lk\">Underlying lk</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "key": "kurdistan",
+    "record": {
+      "pageid": 77215912,
+      "ns": 6,
+      "title": "File:Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia 01.jpg",
+      "index": 4,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/1920px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1800,
+          "thumbheight": 1543,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/3840px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/1920px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1800,
+            "height": 1543,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg/3840px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Maunsell%27s_map,_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia,_Syria_and_western_Persia_01.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77215912",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2019-03-09 20:45:21",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia 01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Maps of the Fertile Crescent|Images with extracted images|Large images|20th-century maps of the Near East|PD-old-80-expired|Maps of ethnic groups in the Ottoman Empire|CC-PD-Mark|1910 maps of Asia|PD-old missing SDC copyright status|Maps of ethnic groups in Asia",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<figure class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><a href=\"//commons.wikimedia.org/wiki/File:Maunsell%27s_map,_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia,_Syria_and_western_Persia_01_(ethnographical_key).jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg/250px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"250\" height=\"615\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg/500px-Maunsell%27s_map%2C_Pre-World_War_I_British_Ethnographical_Map_of_eastern_Turkey_in_Asia%2C_Syria_and_western_Persia_01_%28ethnographical_key%29.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"896\" data-file-height=\"2204\"></a><figcaption>Key</figcaption></figure>Maunsell's map, Pre-World War I British Ethnographical Map of eastern Turkey in Asia, Syria and western Persia",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "1910",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Library of Congress: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/resource/g7431e.ct002182/?r=-0.507,0.215,1.553,0.83,0\">https://www.loc.gov/resource/g7431e.ct002182/?r=-0.507,0.215,1.553,0.83,0</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Lieutenant Colonel Francis Richard Maunsell (1861 - 1936) <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.geographicus.com/P/AntiqueMap/kurdistan-maunsell-1894\">[1]</a><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.jstor.org/stable/1776092?seq=3#metadata_info_tab_contents\">[2]</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    }
+  }
+]
