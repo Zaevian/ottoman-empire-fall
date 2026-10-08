@@ -2,6 +2,8 @@
 
 **How the Ottoman Empire’s collapse reshaped the modern world.** A single-page educational documentary built with Next.js App Router, React, strict TypeScript, Tailwind CSS, locally hosted fonts, and SVG cartography.
 
+[Live documentary](https://ottoman-empire-fall.vercel.app). The Vercel project is connected to this repository; pushes to `main` deploy automatically. `vercel.json` pins the Next.js framework preset.
+
 The experience includes 16 substantial chapters, approximately 8,300 words of core narrative and supporting learning content, 34 expandable chronology events, seven atlas eras, ten territory profiles, eight historical figure profiles, six diplomatic document comparisons, a draggable Sèvres–Lausanne comparison, a glossary with inline definitions, a cause-and-effect explorer, labeled counterfactuals, and a ten-question quiz. Twenty-four archival photographs, documents, and historical map reconstructions are stored locally with individual attribution and rights metadata.
 
 ## Run locally
