@@ -99,8 +99,8 @@ export const sources: Source[] = [
   {
     id: 12,
     title: "A History of the Modern Middle East",
-    publisher: "William L. Cleveland & Martin Bunton · Westview Press, 2016",
-    url: "https://www.routledge.com/A-History-of-the-Modern-Middle-East/Cleveland-Bunton/p/book/9780813349800",
+    publisher: "William L. Cleveland & Martin Bunton · Routledge, 7th ed. 2024",
+    url: "https://www.routledge.com/A-History-of-the-Modern-Middle-East/Cleveland-Bunton/p/book/9780367516468",
     note: "Mandate rule, Arab politics, and the development of states in their regional context.",
     kind: "Scholarship",
   },
